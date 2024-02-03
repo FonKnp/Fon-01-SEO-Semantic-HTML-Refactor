@@ -3,7 +3,7 @@
 ## Description
 
 This project involves refactoring an existing website for marketing angency to meet standards. The goal is to improve its overall code to semantic HTML, and optimize the website.
-I have learn about what the different between non-semantic HTML and semantic HTML. I learn about different selector in CSS and comment in CSS file. I have solve the link issue in the webpage. I have learn to put <alt> for <img> tag. I learn how to improve coding structure to be more clean.
+I have learn about what the different between non-semantic HTML and semantic HTML. I learn about different selector in CSS and comment in CSS file. I have solve the link issue in the webpage. I have learn to put alternate text for all image tag. I learn how to improve coding structure to be more clean.
 
 ## Installation
 
