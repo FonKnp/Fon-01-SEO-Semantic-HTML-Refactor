@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves refactoring an existing website for marketing angency to meet standards. The goal is to improve its overall code to semantic HTML, and optimize the website.
+This project involves refactoring an existing website for digital marketing angency to meet standards. The goal is to improve its overall code to semantic HTML, and optimize the website.
 I have learn about what the different between non-semantic HTML and semantic HTML. 
 I learn how to name the title for the website. I learn about different selector in CSS and how to comment in CSS file. I have solve the link issue in the webpage. I have learn to put alternate text for all image tag. I learn how to improve coding quality and structure, with indentation and others. I learned how to deploy the website to go live.
 
@@ -19,10 +19,10 @@ You can click the navigator bar and it will link to the detail section.
 
 This image below show the screenshot of this website.
 
-![Horiseon-Digital-Market-Screenshot](assets/images/Screenshot-Fon-Horiseon-01.JPG)
+![Horiseon-Social-Solution-Service-Screenshot](assets/images/Screenshot-Fon-Horiseon-01.JPG)
 
 Here the link to the website : 
-[Horiseon-Digital-Market-Solution](https://fonknp.github.io/Fon-01-SEO-Semantic-HTML-Refactor/)
+[Horiseon-Social-Solution-Service](https://fonknp.github.io/Fon-01-SEO-Semantic-HTML-Refactor/)
 
 ## Credits
 
