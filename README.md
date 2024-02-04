@@ -15,7 +15,7 @@ This Horiseon website will help you understand about Search Engine Optimization,
 
 This website contain semantic HTML and organized CSS selectors.This image below show the screenshot of this website.
 
-![Horiseon-Digital-Market-Screenshot](assets/images/Screenshot-Fon-Horiseon-01)
+![Horiseon-Digital-Market-Screenshot](Develop/assets/images/Screenshot-Fon-Horiseon-01.JPG)
 
 Here the link to the website
 :
