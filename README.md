@@ -21,7 +21,7 @@ This image below show the screenshot of this website.
 ![Horiseon-Digital-Market-Screenshot](assets/images/Screenshot-Fon-Horiseon-01.JPG)
 
 Here the link to the website
-:
+[Horison-Digital-Market-Solution](https://fonknp.github.io/Fon-01-SEO-Semantic-HTML-Refactor/)
 ## Credits
 
 N/A
