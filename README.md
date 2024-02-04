@@ -11,10 +11,13 @@ N/A
 
 ## Usage
 
-This Horiseon website will help you understand about Search Engine Optimization, Online Reputation Management, and Social Media Marketing. And also tell you about Lead Generation, Brand Awareness, and Cost Management.
+This Horiseon website will help you understand about Search Engine Optimization, Online Reputation Management, and Social Media Marketing. And the benefits from using Horiseon - Digital Market Solution; Lead Generation, Brand Awareness, and Cost Management.
+
+This website contain semantic HTML and organized CSS selectors.
 
 ## Credits
 
+N/A
 
 ## License
 
