@@ -14,7 +14,7 @@ N/A
 This Horiseon website will help you understand about Search Engine Optimization, Online Reputation Management, and Social Media Marketing. And the benefits from using Horiseon - Digital Market Solution; Lead Generation, Brand Awareness, and Cost Management.
 
 This website contain semantic HTML and organized CSS selectors.
-You can click the header article name and it will link to the article container.
+You can click the navigator bar and it will link to the detail section.
 
 This image below show the screenshot of this website.
 
