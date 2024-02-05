@@ -10,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Main selector */
 main {
     width: 75%;
     display: inline-block;
@@ -21,12 +22,14 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* Specify header style */
 header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
 }
 
+/* Specify footer style */
 footer {
     padding: 30px;
     clear: both;
@@ -40,11 +43,13 @@ aside {
     float: right;
 }
 
+/* Navigation selector */
 nav {
     padding-top: 15px;
     font-size: 20px;
 }
 
+/* Sidebar selector */
 aside {
     padding: 20px;
     clear: both;
